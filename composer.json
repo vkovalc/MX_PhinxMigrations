@@ -1,5 +1,5 @@
 {
-    "name": "mx/module-phinx-migrations",
+    "name": "vkovalc/module-phinx-migrations",
     "description": "Magento 2 module that integrates phinx DB migrations as a replacement for the default setup upgrade, therefore enabling zero downtime deployments.",
     "version": "2.0",
     "type": "magento2-module",
